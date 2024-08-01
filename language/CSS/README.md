@@ -1,0 +1,2 @@
+- [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples)
+- [CSS loaders and Spinners](https://cssloaders.github.io/)
