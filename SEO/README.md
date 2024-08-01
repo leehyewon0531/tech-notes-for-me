@@ -1,0 +1,1 @@
+- [SEO (검색엔진 최적화)란? – 구글, 네이버 가이드 총정리](https://seo.tbwakorea.com/blog/seo-guide-2022/)
