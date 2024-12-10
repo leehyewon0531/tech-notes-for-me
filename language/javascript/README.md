@@ -6,3 +6,5 @@
   : 30일동안 자바스크립트 미니 프로젝트 하나씩 구현하는 스터디
 - [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
   : JavaScript 기본 개념 및 고급 개념 번역본
+- [JS 100제](https://paullab.co.kr/codefestival.html)
+  : JavaScript 알고리즘 문제 100제
